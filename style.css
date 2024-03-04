@@ -1,0 +1,49 @@
+/* Custom CSS styles */
+.section {
+  padding: 40px 0;
+}
+
+.project {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+img {
+  width: 100%;
+}
+
+footer {
+  background: #5c5a5a;
+  padding: 10px 0 10px 0;
+}
+p.my-copyright-test {
+  text-align: center;
+  margin-top: 10px;
+  color: #fff;
+}
+
+.hero-section {
+  background-image: url('https://res.allmacwallpaper.com/pic/Thumbnails/1838_728.jpg'); /* Replace 'your-image-url.jpg' with your actual image URL */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 100%;
+  padding: 20px;
+}
+
+h2.ct-main {
+  text-align: center;
+}
+.divider {
+  width: 100px;
+  height: 2px;
+  background-color: #007bff;
+  margin: 20px auto;
